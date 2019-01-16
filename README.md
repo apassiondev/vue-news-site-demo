@@ -6,7 +6,7 @@ A fake news site built with Vue.js, Nuxt.js, json-server-auth, and Vue-kindergar
 
 * [Node.js](http://nodejs.org/)
 
-## Installation Steps (if applicable)
+## Installation Steps
 
 1. Clone repo
 2. Change into `client` folder
